@@ -101,5 +101,5 @@ Skript ichidagi **15-band** orqali mukammal o'zbekcha qo'llanmani o'qishingiz mu
 Ushbu loyiha [MIT](LICENSE) litsenziyasi bo'yicha tarqatiladi. O'zgartirishlar kiritish va shaxsiy maqsadlarda foydalanish mutlaqo bepul.
 
 ---
-**👨‍💻 Dasturchi:** [@SizningUsername](https://github.com)  
+**👨‍💻 Dasturchi:** [@Pydeveloperman](https://github.com/Pydeveloperman)  
 Agar loyiha yoqqan bo'lsa, **Star (⭐️)** bosishni unutmang!
